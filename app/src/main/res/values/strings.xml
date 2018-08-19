@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyFamilyDocuments</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="file_created">Created file: %1$s.</string>
+    <string name="file_create_error">Error while trying to create the file.</string>
+    <string name="uploadButtonToolTip">Upload Document</string>
+    <string name="AppFolderName">MYFamilyDocumentsApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="movies_categories_key">categoriesKey</string>
+    <string name="default_movies_categories">popular</string>
+
+</resources>

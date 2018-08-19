@@ -1,0 +1,16 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="com.aravamsinfo.SettingsActivity$GeneralPreferenceFragment"
+        android:icon="@drawable/folder_view_anyothers"
+        android:title="Add Family Members" />
+
+
+    <PreferenceCategory android:title="SignOut">
+
+    </PreferenceCategory>
+
+
+</preference-headers>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="SignOut">
+        <Preference android:title="Click to SignOut"
+            android:key="exitlink"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="My Family Members">
+
+        <EditTextPreference
+            android:key="AddNewFamilyMember"
+            android:title="Add Family Member"
+            android:summary="Click to Add new Family Member"
+            android:dialogTitle="Add New Family Member" />
+
+    </PreferenceCategory>
+
+
+
+
+</PreferenceScreen>

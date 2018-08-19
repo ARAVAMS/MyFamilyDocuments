@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145551697084",
+    "project_id": "robust-fin-188417"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145551697084:android:8e48c8b902268410",
+        "android_client_info": {
+          "package_name": "com.aravamsinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145551697084-4srqeot4ra0c0t28mmc4ic1flnprruqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aravamsinfo",
+            "certificate_hash": "aec700d5eb6f08b7f6c93cde4198ce65efd20f29"
+          }
+        },
+        {
+          "client_id": "145551697084-0s1tkp2fdrqos8p8m74ekui65bt3l23g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcHQCjpErQ_4mX21bp8gu8_rlWv_ILkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

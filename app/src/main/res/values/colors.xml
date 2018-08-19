@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#189999</color>
+    <color name="colorPrimaryDark">#064343</color>
+    <color name="colorAccent">#189999</color>
+    <color name="colorAdd">#069c58</color>
+    <color name="colorMainScreen">#abc6c6</color>
+
+
+    <color name="actionmode_overflow_menu_text">#182b99</color>
+
+    <color name="actionmode_overflow_menu_background">#189999</color>
+
+</resources>
